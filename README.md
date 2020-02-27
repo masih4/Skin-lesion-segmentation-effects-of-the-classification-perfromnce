@@ -4,7 +4,7 @@ This repository contains the utilized classification probability vectors and als
 
 ## Files description:
 - image_ids: Contains the image IDs that are only classified correctly with one of the datasets
-- predictions.zip: contains predictions for both sets of experiments. The classification prediction vectors for the first set of experiments are inside the "manual segmentation" folder and the classification prediction vectors for the second set of experiments are inside the "automatic segmentation" folder
+- predictions.zip: contains predictions for both sets of experiments. The classification prediction vectors for the first set of experiments are inside the "manual segmentation" folder, the classification prediction vectors for the second set of experiments are inside the "automatic segmentation" folder and the classification prediction vectors for the reference dataset is inside the "reference" folder.
 - Segmentation_masks.zip: contains the automatically created segmentation masks for all 600 test images. These segementation masks were used in the second set of experiments.
 
 ## References
