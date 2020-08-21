@@ -1,4 +1,4 @@
-# The Effects of Skin Lesion Segmentation on the Dermoscopic Image Classification Performance
+# The Effects of Skin Lesion Segmentation on the Performance of Dermatoscopic Image Classification
 This repository contains the derived classification probability vectors (from both sets of experiments) and also automatically created segmentation masks (SkinUNet, SkinFPN+, and SkinLinkNet) that were used in our study. The classification probability vectors and the segmentation masks of the ISIC 2017 test set images can be found in the respective folders. 
 ![Project Image](https://github.com/masih4/Skin-lesion-segmentation-effects-of-the-classification-perfromnce/blob/master/Project.jpg)
 
