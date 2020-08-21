@@ -1,5 +1,5 @@
 # The Effects of Skin Lesion Segmentation on the Dermoscopic Image Classification Performance
-This repository contains the utilized classification probability vectors and also automatically created segmentation masks (i.e. SkinUNet, SkinFPN+, and SkinLinkNet) that are used in our study. The CSV files and the segmentation masks can be found in the results folder. 
+This repository contains the derived classification probability vectors (from both sets of experiments) and also automatically created segmentation masks (SkinUNet, SkinFPN+, and SkinLinkNet) that were used in our study. The classification probability vectors and the segmentation masks can be found in the respective folders. 
 ![Project Image](https://github.com/masih4/Skin-lesion-segmentation-effects-of-the-classification-perfromnce/blob/master/Project.jpg)
 
 ## Files description:
