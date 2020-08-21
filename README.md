@@ -15,15 +15,36 @@ This repository contains the derived classification probability vectors (from bo
 - https://ch.mathworks.com/help/stats/signrank.html (for Wilcoxon signed-rank test method)
 
 
-## References
+## Citations
+The paper describing our methodology is recently accepted in the Computer Methods and Programs in Biomedicine journal. Complementary information (DOI, volume, etc) will be added soon. 
+
+BibTex entry:
 ```
 @article{Mahbod2020,
 title = "The Effects of Skin Lesion Segmentation on the Dermoscopic Image Classification Performance",
 author="Mahbod, Amirreza and Tschandl, Philipp and Langs, Georg  and Ecker, Rupert and Ellinger, Isabella",
 year="2020",
-publisher="",
-pages = "",
-abstract="",
+journal = "Computer Methods and Programs in Biomedicine",
 doi=""
 }
 ```
+The description of the utilized classification workflow in our paper can be found in the following article:
+
+BibTex entry:
+```
+@article{MAHBOD2020105475,
+title = "Transfer Learning Using a Multi-Scale and Multi-Network Ensemble for Skin Lesion Classification",
+journal = "Computer Methods and Programs in Biomedicine",
+pages = "105475",
+year = "2020",
+issn = "0169-2607",
+doi = "https://doi.org/10.1016/j.cmpb.2020.105475",
+author = "Amirreza Mahbod and Gerald Schaefer and Chunliang Wang and Georg Dorffner and Rupert Ecker and Isabella Ellinger",
+keywords = "Skin cancer, dermoscopy, medical image analysis, deep learning, image resolution, image cropping, transfer learning",
+}
+```
+
+## License
+This project is licensed under the Apache (version 2.0) License. 
+
+
