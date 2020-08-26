@@ -16,7 +16,7 @@ This repository contains the derived classification probability vectors (from bo
 
 
 ## Citations
-The paper describing our methodology is recently accepted in the Computer Methods and Programs in Biomedicine journal. Complementary information (DOI, volume, etc) will be added soon. 
+The paper describing our methodology is recently accepted in the Computer Methods and Programs in Biomedicine journal. Complementary information (volume, pages,  etc) will be added soon. 
 
 BibTex entry:
 ```
@@ -26,7 +26,7 @@ journal = "Computer Methods and Programs in Biomedicine",
 pages = "",
 year="2020",
 issn = "",
-doi=""
+doi="https://doi.org/10.1016/j.cmpb.2020.105725"
 author="Mahbod, Amirreza and Tschandl, Philipp and Langs, Georg  and Ecker, Rupert and Ellinger, Isabella",
 keywords = "Skin cancer, dermatoscopy, medical image analysis, deep learning, effect of segmentation on classification."
 }
