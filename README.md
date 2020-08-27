@@ -16,19 +16,19 @@ This repository contains the derived classification probability vectors (from bo
 
 
 ## Citations
-The paper describing our methodology is recently accepted in the Computer Methods and Programs in Biomedicine journal. Complementary information (volume, pages,  etc) will be added soon. 
+The paper describing our methodology is accepted in the Computer Methods and Programs in Biomedicine journal and can be found here:
 
 BibTex entry:
 ```
-@article{Mahbod2020,
-title = "The Effects of Skin Lesion Segmentation on the Dermoscopic Image Classification Performance",
+@article{MAHBOD2020105725,
+title = "The Effects of Skin Lesion Segmentation on the Performance of Dermatoscopic Image Classification",
 journal = "Computer Methods and Programs in Biomedicine",
-pages = "",
-year="2020",
-issn = "",
-doi="https://doi.org/10.1016/j.cmpb.2020.105725"
-author="Mahbod, Amirreza and Tschandl, Philipp and Langs, Georg  and Ecker, Rupert and Ellinger, Isabella",
-keywords = "Skin cancer, dermatoscopy, medical image analysis, deep learning, effect of segmentation on classification."
+pages = "105725",
+year = "2020",
+issn = "0169-2607",
+doi = "https://doi.org/10.1016/j.cmpb.2020.105725",
+author = "Amirreza Mahbod and Philipp Tschandl and Georg Langs and Rupert Ecker and Isabella Ellinger",
+keywords = "Skin cancer, dermatoscopy, medical image analysis, deep learning, effect of segmentation on classification",
 }
 ```
 The description of the utilized classification workflow in our paper can be found in the following article:
